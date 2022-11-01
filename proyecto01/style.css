@@ -1,0 +1,19 @@
+*{
+    background-color: beige;
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    border: 500px;
+    color: brown;
+}
+.parrafo{
+    text-align: center;
+    color: darksalmon;
+}
+
+img{
+    border-radius: 500px;
+}
